@@ -132,7 +132,7 @@ input {
 }
 
 #signup {
-	background-color:#00e6e6;
+	background-color: #00e6e6; !important
 }
 
 @keyframes show {
